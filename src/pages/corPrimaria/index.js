@@ -3,5 +3,3 @@ export function index() {
         
     }
 }
-
-// adicionar uma tag add pls
